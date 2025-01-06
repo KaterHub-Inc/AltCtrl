@@ -2,8 +2,7 @@
 
 ![Showcase](https://raw.githubusercontent.com/KaterHub-Inc/AltCtrl/refs/heads/main/assets/showcase.png)
 
-| Commands             |                                                                 |
-| ----------------- | ------------------------------------------------------------------ |
+
 | .freeze | .thaw |
 | .rejoin | 
 
